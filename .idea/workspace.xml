@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d31a446-2d50-481f-b817-57e2ae87e19c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/exercises/bst/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/bst/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/fromlast/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/fromlast/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/levelwidth/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/levelwidth/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/tree/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/tree/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/tree/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/tree/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/validate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/validate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/events/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/events/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/events/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/events/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/sorting/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/sorting/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +15,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/validate/index.js">
+        <entry file="file://$PROJECT_DIR$/exercises/sorting/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="416">
+              <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/validate/node.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -70,6 +62,9 @@
         <option value="$PROJECT_DIR$/exercises/levelwidth/index.js" />
         <option value="$PROJECT_DIR$/exercises/bst/index.js" />
         <option value="$PROJECT_DIR$/exercises/validate/index.js" />
+        <option value="$PROJECT_DIR$/exercises/events/example.html" />
+        <option value="$PROJECT_DIR$/exercises/events/index.js" />
+        <option value="$PROJECT_DIR$/exercises/sorting/index.js" />
       </list>
     </option>
   </component>
@@ -99,7 +94,7 @@
               <item name="AlgorithmsAndDataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmsAndDataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="validate" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585718061833</updated>
-      <workItem from="1585718070138" duration="40979000" />
+      <workItem from="1585718070138" duration="44563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40979000" />
+    <option name="totallyTimeSpent" value="44563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -155,8 +150,8 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.25662652" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49928468" visible="true" weight="0.25662652" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.25662652" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -506,13 +501,43 @@
         <state relative-caret-position="-135" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/validate/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/validate/node.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/validate/index.js">
+    <entry file="file://$PROJECT_DIR$/exercises/events/test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/events/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/events/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/sorting/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
