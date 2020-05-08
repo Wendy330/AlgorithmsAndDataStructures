@@ -6,6 +6,7 @@ import java.util.Arrays;
 public class Solution {
     public static void main(String[] args) {
         System.out.println("Is Anagram: " + isAnagram(" rail sAFety !!! ", "Fairy tales"));
+        System.out.println("Is Anagram: " + isAnagramFaster(" rail sAFety !!! ", "Fairy tales"));
     }
 
     // O(n log n)
@@ -22,7 +23,6 @@ public class Solution {
     // O(n)
     public static boolean isAnagramFaster(String str1, String str2) {
         final int CHARACTER_RANGE= 256;
-
         String cleanStr1 = cleanString(str1);
         String cleanStr2 = cleanString(str2);
 
